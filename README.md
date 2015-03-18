@@ -11,4 +11,4 @@ GTK2 ENGINES REQUIREMENT
 ![](http://s9.postimg.org/amxezhwj3/165718_1.jpg)
 
 # Credits to
-veniceliuice
+[veniceliuice](http://vinceliuice.deviantart.com/art/Flattice-461445311)
